@@ -1,0 +1,4 @@
+Commiment from the Github repository
+
+list = ['one','abc','xyz','mno']
+list.split()
