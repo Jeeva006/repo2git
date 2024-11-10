@@ -2,4 +2,4 @@ Commiment from person2
 
 
 list = ['one','abc','xyz','mno']
-list.split()
+list.split() 
